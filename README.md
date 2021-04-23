@@ -12,13 +12,6 @@ Integrantes
 Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero.
 1.	Forme grupos de 3 a 5 personas
 2.	Un integrante del grupo deberá crear el proyecto principal con la plantilla base:
-                                      class Calculator {
-                                        int add(int a, int b){ return 0; }
-                                        int sub(int a, int b){ return 0; }
-                                        int mul(int a, int b){ return 0; }
-                                        int div(int a, int b){ return 0; }
-                                        int mod(int a, int b){ return 0; }
-                                      }
 3.	Comparta el proyecto con sus compañeros de grupo y asigne uno o dos  métodos distintos a cada integrante del grupo.
 4.	Los integrantes del grupo deberán hacer clone, push y pull según corresponda, de modo que el repositorio contenga la solución final.
 5.	Reportar al profesor que logró culminar la tarea.
