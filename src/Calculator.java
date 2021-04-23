@@ -1,15 +1,16 @@
 import java.util.Scanner;
 
-<<<<<<< HEAD
+
 class Calculator {
 	
 	
   static int add(int a, int b){ 
-	  int res= a +b ;
-	  return res; 
+	  return  a +b ;
 	  }
 
-  static int sub(int a, int b){ return 0; }
+  static int sub(int a, int b){
+	  return a-b; }
+  
   static int mul(int a, int b){ return 0; }
   static int div(int a, int b){ return 0; }
   static int mod(int a, int b){ return 0; }
