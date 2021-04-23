@@ -1,7 +1,7 @@
 # Ejercicio1Lab
 Ejercicios Propuestos
 
-Integrantes.
+Integrantes.\
 -MELVIN ELIAN CASTRO CALLE.\
 -DIEGO EDUARDO ILAVE VASQUEZ.\
 -YOSET COZCO MAURI.\
