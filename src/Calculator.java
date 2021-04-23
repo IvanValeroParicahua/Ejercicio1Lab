@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+<<<<<<< HEAD
 class Calculator {
 	
 	
@@ -59,3 +60,15 @@ class Calculator {
 			break;
 		}
 }	}
+=======
+public class Calculator {
+	public static void main(String []args){
+     }
+     public static int sumar(int a, int b){
+           return a+b;
+       }
+     public static int restar(int a, int b){
+     	return a - b;
+     }
+}
+>>>>>>> 5be13dd465f182c2287e3e16d99c5ef8e51556ee
