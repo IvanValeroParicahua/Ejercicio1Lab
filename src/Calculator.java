@@ -17,7 +17,15 @@ class Calculator {
   	  }
 
   static int div(int a, int b){
-  		return a/b; 
+  		int cociente;
+	if (b <=0) {
+	System.out.println("Division entre 0 no existe");
+	}
+	else {
+	cociente = a/b;
+	return cociente;
+	}	
+	return 0; 
    }
   static int mod(int a, int b){ 
   	    return a%b; 
