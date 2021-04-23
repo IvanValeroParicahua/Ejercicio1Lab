@@ -2,13 +2,10 @@
 Ejercicios Propuestos
 
 Integrantes.
--MELVIN ELIAN CASTRO CALLE.
--DIEGO EDUARDO ILAVE VASQUEZ.
--YOSET COZCO MAURI.
--IVAN MARCELO VALERO PARICAHUA.
-
-
-
+-MELVIN ELIAN CASTRO CALLE.\
+-DIEGO EDUARDO ILAVE VASQUEZ.\
+-YOSET COZCO MAURI.\
+-IVAN MARCELO VALERO PARICAHUA.\
 
 Se desea crear una clase Calculator en Java, que tenga las siguientes operaciones: add, sub, mul, div, mod; estas operaciones recibirán dos enteros y devolverán un entero.
 1.	Forme grupos de 3 a 5 personas
